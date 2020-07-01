@@ -1,4 +1,6 @@
-p.p1 {
+/*Propiedades de Texto*/
+
+/* p.p1 {
     color: tan;
     text-align: center;
     text-indent: 35px;
@@ -9,5 +11,30 @@ p.p2 {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2px;
+} */
+
+/*Propiedades de background*/
+
+h1 {
+    background-color: bisque;
+    height: 50px;
+    width: 150px;
+    position: relative;
+    left: 820px;
 }
 
+p.p1 {
+    background-color: bisque;
+    height: 300px;
+    width: 600px;
+    left: 600px;
+    position: relative;
+}
+
+div.bg {
+    background-color: aqua;
+    height: 240px;
+    width: 340px;
+    left: 750px;
+    position: relative;
+}
