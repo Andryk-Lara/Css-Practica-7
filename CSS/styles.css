@@ -15,6 +15,7 @@ p.p2 {
 
 /*Propiedades de background*/
 
+/*
 h1 {
     background-color: bisque;
     height: 50px;
@@ -37,4 +38,25 @@ div.bg {
     width: 340px;
     left: 750px;
     position: relative;
+}
+*/
+
+/*Propiedades de fonts*/
+
+h1 {
+    font-size: 40px;
+    font-family: cursive;
+    font-style: oblique;
+
+}
+
+p.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+}
+p.p2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-style: oblique;
 }
